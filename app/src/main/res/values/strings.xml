@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seblac</string>
+    <string-array name="topping">
+        <item>Sosis</item>
+        <item>Ayam</item>
+        <item>Bakso</item>
+        <item>Spesial</item>
+    </string-array>
+</resources>
